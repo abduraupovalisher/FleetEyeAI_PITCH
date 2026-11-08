@@ -1,0 +1,6 @@
+{
+  "name": "FleetEye AI — UzCombinator Pitch Deck",
+  "description": "Tijorat yuk transporti uchun avtonom Edge-AI xavfsizlik va telematika tizimi — 10 slaydli Pre-Seed taqdimoti (PPTX va Google Slides eksporti bilan).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
